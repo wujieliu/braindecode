@@ -6,5 +6,7 @@ https://robintibor.github.io/braindecode/
 https://www.tensorflow.org/alpha/tutorials/keras/basic_classification/
 
 feel free to contact me if needed:
+
 https://github.com/MohammadJavadD
+
 https://www.linkedin.com/in/mjdarvishi/
